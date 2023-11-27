@@ -6,7 +6,7 @@
 Para descargar la aplicación del repo, se debe escribir el siguiente comando:
 
 ```
-$ null
+$ git clone https://github.com/FragmentosTemporales/click-python
 ```
 
 
